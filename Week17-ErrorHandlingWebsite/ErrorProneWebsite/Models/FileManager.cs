@@ -20,6 +20,7 @@ namespace ErrorProneWebsite.Models
         /// <para>So at the very least some error handling needs to happen here...</para>
         /// </summary>
         /// <returns>The contents of the file from the file path as a string.</returns>
+        /// Hello World
 
         public string GetContent()
         {
